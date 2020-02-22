@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport Header from '../components/ui/Header';\nexport default function Index() {\n  return __jsx(React.Fragment, null, __jsx(Header, {\n    title: \"SSR\",\n    tagline: \"using nextjs and cloud functions\"\n  }));\n}","map":null,"metadata":{},"sourceType":"module"}

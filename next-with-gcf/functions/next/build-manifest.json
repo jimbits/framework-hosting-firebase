@@ -1,0 +1,54 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.724b47f612a7bdd31dcb.js",
+      "static/chunks/aaa0a5395ffc886c182881b59521bc14b4275ebf.8b4c161d3b2de92ecd85.js",
+      "static/runtime/main-b44b0fe9d7f04d34e764.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.724b47f612a7bdd31dcb.js",
+      "static/chunks/aaa0a5395ffc886c182881b59521bc14b4275ebf.8b4c161d3b2de92ecd85.js",
+      "static/chunks/c47c5b7f77ccf98d960c453710ba48c5294a4213.b5d59fbb10a94f3598df.js",
+      "static/chunks/68d0876124291c7b36748890d1e7b3a1f8fb0ea3.0f378503f0039ed689f7.js",
+      "static/runtime/main-b44b0fe9d7f04d34e764.js",
+      "static/eKFw6_ughEpYaXdxht3B6/_buildManifest.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.724b47f612a7bdd31dcb.js",
+      "static/chunks/c47c5b7f77ccf98d960c453710ba48c5294a4213.b5d59fbb10a94f3598df.js",
+      "static/runtime/main-b44b0fe9d7f04d34e764.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-7249f898b57640d2ed1e.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.724b47f612a7bdd31dcb.js",
+      "static/chunks/aaa0a5395ffc886c182881b59521bc14b4275ebf.8b4c161d3b2de92ecd85.js",
+      "static/runtime/main-b44b0fe9d7f04d34e764.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.724b47f612a7bdd31dcb.js",
+      "static/chunks/aaa0a5395ffc886c182881b59521bc14b4275ebf.8b4c161d3b2de92ecd85.js",
+      "static/runtime/main-b44b0fe9d7f04d34e764.js"
+    ],
+    "/tutoring": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.724b47f612a7bdd31dcb.js",
+      "static/chunks/aaa0a5395ffc886c182881b59521bc14b4275ebf.8b4c161d3b2de92ecd85.js",
+      "static/runtime/main-b44b0fe9d7f04d34e764.js"
+    ],
+    "/workshops": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.724b47f612a7bdd31dcb.js",
+      "static/chunks/aaa0a5395ffc886c182881b59521bc14b4275ebf.8b4c161d3b2de92ecd85.js",
+      "static/chunks/c47c5b7f77ccf98d960c453710ba48c5294a4213.b5d59fbb10a94f3598df.js",
+      "static/runtime/main-b44b0fe9d7f04d34e764.js"
+    ]
+  }
+}
